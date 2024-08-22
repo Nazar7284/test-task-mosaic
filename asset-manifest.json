@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-task-mosaic/static/css/main.2c804dd4.css",
+    "main.js": "/test-task-mosaic/static/js/main.95b9e6c1.js",
+    "static/media/blueprint-icons-20.svg?": "/test-task-mosaic/static/media/blueprint-icons-20.7232a810de8de6f2aeaf.svg",
+    "static/media/blueprint-icons-16.svg?": "/test-task-mosaic/static/media/blueprint-icons-16.a271f661ef44bd0c1da8.svg",
+    "static/media/blueprint-icons-20.eot?": "/test-task-mosaic/static/media/blueprint-icons-20.3f4081135062892dbcdc.eot",
+    "static/media/blueprint-icons-20.ttf?": "/test-task-mosaic/static/media/blueprint-icons-20.26d422cf1c72f1a51b25.ttf",
+    "static/media/blueprint-icons-16.eot?": "/test-task-mosaic/static/media/blueprint-icons-16.e1f99a1f15108e234254.eot",
+    "static/media/blueprint-icons-16.ttf?": "/test-task-mosaic/static/media/blueprint-icons-16.d467f06e4e4091f2d473.ttf",
+    "static/media/blueprint-icons-20.woff?": "/test-task-mosaic/static/media/blueprint-icons-20.598971a89bf272cbd80e.woff",
+    "static/media/blueprint-icons-16.woff?": "/test-task-mosaic/static/media/blueprint-icons-16.0b3f7b4680435ae4e00a.woff",
+    "static/media/blueprint-icons-20.woff2?": "/test-task-mosaic/static/media/blueprint-icons-20.a167a3067f93fd318fc7.woff2",
+    "static/media/blueprint-icons-16.woff2?": "/test-task-mosaic/static/media/blueprint-icons-16.b2e01c0744d298935db0.woff2",
+    "index.html": "/test-task-mosaic/index.html",
+    "main.2c804dd4.css.map": "/test-task-mosaic/static/css/main.2c804dd4.css.map",
+    "main.95b9e6c1.js.map": "/test-task-mosaic/static/js/main.95b9e6c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c804dd4.css",
+    "static/js/main.95b9e6c1.js"
+  ]
+}
